@@ -47,19 +47,19 @@ http://127.0.0.1:5000/
 -Click the Predict button.
 -The app will display the diabetes prediction result.
 
-### Dataset
+## Dataset
 
 The model is trained on the Pima Indians Diabetes Dataset, a well-known dataset in medical machine learning applications.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
 
-### License
+## License
 
 This project is licensed under the MIT License.
 
-### Contact
+## Contact
 
 For any queries, contact Naresh at nareshrajaram17@gmail.com.
 
