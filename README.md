@@ -24,9 +24,11 @@ The **Diabetes Prediction App** is a web-based application that predicts the ris
 ```bash
 git clone https://github.com/your-username/diabetes-prediction-app.git
 cd diabetes-prediction-app
+
 ### Create a virtual environment and activate it:
 python -m venv venv
 source venv/bin/activate  # On Windows use 'venv\Scripts\activate'
+
 ### Install dependencies:
 
 pip install -r requirements.txt
@@ -39,10 +41,12 @@ python app.py
 
 http://127.0.0.1:5000/
 
+
 ## Usage
 -Enter required health parameters (e.g., age, BMI, glucose level, blood pressure, etc.).
 -Click the Predict button.
 -The app will display the diabetes prediction result.
+
 ### Dataset
 
 The model is trained on the Pima Indians Diabetes Dataset, a well-known dataset in medical machine learning applications.
